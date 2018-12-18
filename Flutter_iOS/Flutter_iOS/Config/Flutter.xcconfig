@@ -1,0 +1,2 @@
+#include "../flutter_library/.ios/Flutter/Generated.xcconfig"
+ENABLE_BITCODE=NO
